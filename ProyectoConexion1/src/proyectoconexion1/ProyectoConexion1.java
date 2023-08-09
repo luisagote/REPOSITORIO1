@@ -17,7 +17,7 @@ public class ProyectoConexion1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(" Primera Conexion Netsbean con Repositorio GitHub");   
+        System.out.println(" Primera Conexion Netsbean con Repositorio GitHub hoy");   
     }
 
 }
